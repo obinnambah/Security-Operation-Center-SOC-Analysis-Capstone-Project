@@ -258,5 +258,5 @@ model for organizations without enterprise-level security budgets.
 
 **Obinna Mbah**
 SOC Analyst — 10Alytics
-📍 Essen, Germany
+📍 Gelsenkirchen, Germany
 📅 Submission Date: 29 May 2026
